@@ -3,6 +3,6 @@
 
 @section('page-title', 'Welcome to DC Comics')
 
-@section('name')
+@section('fumetti')
     @include('components.comics')
 @endsection
